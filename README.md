@@ -21,6 +21,7 @@ validation's multi_logloss: <b>1.7545</b><br>
 best epoch is: <b>648</b><br>
 validation's multi_logloss: <b>1.7530</b><br>
 
+------------------------------------------------------------
 
 Version-1:<br>
 ```python
