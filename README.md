@@ -43,3 +43,7 @@ Early stopping activated on epoch: <b>678</b><br>
 validation's multi_logloss: <b>1.7529</b><br>
 best epoch is: <b>648</b><br>
 validation's multi_logloss: <b>1.7526</b><br>
+
+
+<br>
+<h5><i>In progress...</i></h5>
